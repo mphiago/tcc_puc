@@ -12,8 +12,6 @@
 > ```
 > Uso:
 > 
->   Run Smart-Allocation pipeline - for single or multiple cases
-> 
 > Sequência de Execução:
 >   1. extracao_dados_ANAC.ipynb
 >   2. preparacao_dados_Voos.ipynb
